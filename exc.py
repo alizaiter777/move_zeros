@@ -18,4 +18,8 @@ def  move_zeros(numbers):
     return x+zeros
 
 
+result = move_zeros(numbers)
+print(result)
+
+
 
